@@ -1,0 +1,119 @@
+
+
+body{
+    background: url(Capture\ d’écran\ 2021-01-24\ à\ 23.15.21.png);
+
+}
+
+.container
+{
+    height: 550px;
+    width: 50%;
+    font-family: 'Lato', sans-serif;
+    color:darkblue;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 50px 30px;
+    margin: 20px;
+    background-color: rgb(255, 255, 255, 0.8);
+}
+.container h1{
+
+    text-align: center;
+    background: white;
+    line-height: 32px;
+    padding: 10px 20px;
+    font-weight: 400;
+}
+#container2
+{
+border: solid darkblue;
+padding: 5px;
+font-size: 25px;
+font-weight: 400 ;
+
+}
+
+#cara
+{
+    font-weight: bolder;
+    font-size: 25px;
+
+}
+
+#A
+{
+line-height: 35px;
+color: cyan;
+background-color: darkblue;
+padding: 5px;
+font-weight: bolder;
+  
+}
+
+#B
+{
+    line-height: 35px;
+    background-color: darkblue;
+    color: white;
+    padding: 5px;
+    font-weight: bolder;
+
+}
+#C
+{
+    line-height: 35px;
+    background-color: darkblue;
+    color: white;
+    padding: 5px;
+    font-weight: bolder;
+}
+
+#D
+{
+    line-height: 35px; 
+    background-color:cyan;
+    padding: 5px;
+    font-weight: bolder;
+}
+
+#E
+{
+    background-color: darkblue;
+    color: white;
+    padding: 5px;
+    font-weight: bolder;
+}
+.F
+{
+    line-height: 35px;
+    background-color: darkblue;
+    color:cyan;
+    padding: 5px;
+    font-weight: bolder;
+}
+#G
+{
+    line-height: 35px;
+    background-color: darkblue;
+    color: white;
+    padding: 5px;
+    font-weight: bolder;
+}
+#H
+{
+    background-color: darkblue;
+    color: white;
+    padding: 5px;
+    font-weight: bolder;
+}
+
+
+
+
+
+
+
+
+
+
